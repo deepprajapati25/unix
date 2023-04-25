@@ -59,7 +59,7 @@ rm - rm command is used to remove objects such as files, directories from the fi
 
 cp - cp stands for copy. This command is used to files or group of files to a different directory
 
-my - my stands for move. It is used to move on more files or directories from one page to another file system
+mv - mv stands for move. It is used to move on more files or directories from one page to another file system
 
 chmod - it is used to change the access permiss of files and directories. it stands for change for ------------- It cannot change the permission of symbolic
 
